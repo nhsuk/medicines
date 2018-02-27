@@ -5,3 +5,4 @@
 
 ## Accessibility tests
 - [Hyphens versus endashes](https://github.com/nhsuk/medicines/blob/gh-pages/accessibility/tests/hyphens-endashes.html)
+- [Micrograms symbol](https://github.com/nhsuk/medicines/blob/gh-pages/accessibility/tests/micrograms.html)
